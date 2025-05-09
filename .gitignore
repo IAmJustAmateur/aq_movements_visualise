@@ -1,0 +1,16 @@
+# Ignore generated HTML map files
+*.html
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
