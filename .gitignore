@@ -1,5 +1,7 @@
 # Ignore generated HTML map files
 *.html
+# ignore logs
+*.log
 
 # Python bytecode
 __pycache__/

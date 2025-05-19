@@ -21,7 +21,7 @@ An interactive Python application that reads your GPS movement data from a CSV f
    ```bash
    git git@github.com:IAmJustAmateur/aq_movements_visualise.git
    cd <your-repo-folder>
-   ```
+   ``` 
 2. (Optional) Create and activate a virtual environment:
 
    ```bash
